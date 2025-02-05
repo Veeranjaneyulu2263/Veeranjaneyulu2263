@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Veeranjaneyulu2263
-- 👀 I’m interested in Python DSA, Full Stack, Data Analysis & Data Analystics
-- 🌱 I’m currently learning Data Analysis & Data Analystics
-- 💞️ I’m looking to collaborate on creating a web application
+- 👀 I’m interested in Data Scientist
+- 🌱 I’m currently learning Data Visualizations
+- 💞️ I’m looking to collaborate on creating a Dashboards in Micro POWER BI
 - 📫 How to reach me veeranjaneyulusarnala@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Driving
